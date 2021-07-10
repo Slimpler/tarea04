@@ -1,3 +1,9 @@
+# Nicolás Delgado Oyarce
+El directorio entregado al profesor es tarea04, el cual contiene el archivo que esta leyendo README.md y otro directorio nombrado code.
+El directorio code a su vez contiene el directorio src y los ejecutables MakeFile y run.sh, será aquí donde se deberá compilar el código,
+para su posterior ejecucíón. El directorio src contendrá el código de la tarea en main.cc y el MakeFile para su compilación.
+
+
 # Implementación paralela de sumatoria trigonométrica
 
 El objetivo de la tarea es diseñar e implementar una versión paralela de una sumatoria de funciones trigonométricas, utlizando MPI con C++17 a través de boost::MPI. Deberá realizar experimentos que permitan mostrar el desempeño temporal del algoritmo implementado, utilizando métricas de SpeedUp e Eficiencia. Los resultados de los experimentos serán mostrados a través de gráficos con su correspondiente explicación y análisis.
