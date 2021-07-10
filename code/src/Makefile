@@ -1,4 +1,4 @@
-TARGET=./sumaParalela
+TARGET=./tarea04
 
 CXX=/usr/bin/mpicxx
 
